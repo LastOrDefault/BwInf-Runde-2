@@ -1,0 +1,19 @@
+# Ergebnis für Datei C:\Users\JoEn\Documents\Visual Studio 2017\Projects\BwInf Runde 2 Jona Enzinger\Material\Aufgabe 1\rosinen\Quadrat-6.txt
+# Anzahl der Unternehmen
+13
+# Gesamtwert der Unternehmen
+311
+# Nummern der Unternehmen
+3
+6
+7
+8
+9
+11
+14
+15
+18
+21
+25
+29
+33

@@ -1,0 +1,7 @@
+# Ergebnis für Datei C:\Users\JoEn\Documents\Visual Studio 2017\Projects\BwInf Runde 2 Jona Enzinger\Material\Aufgabe 1\rosinen\Zufall-7.txt
+# Anzahl der Unternehmen
+1
+# Gesamtwert der Unternehmen
+45
+# Nummern der Unternehmen
+0

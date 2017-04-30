@@ -1,0 +1,14 @@
+# Ergebnis für Datei C:\Users\JoEn\Documents\Visual Studio 2017\Projects\BwInf Runde 2 Jona Enzinger\Material\Aufgabe 1\rosinen\Kreis-8.txt
+# Anzahl der Unternehmen
+8
+# Gesamtwert der Unternehmen
+4
+# Nummern der Unternehmen
+0
+1
+2
+3
+4
+5
+6
+7
